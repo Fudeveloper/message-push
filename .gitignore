@@ -25,5 +25,8 @@ target
 hs_err_pid*
 
 deploy.sh.bak
-application-dev.yml
 application-prod.yml
+rebel.xml
+*/application-dev.yml
+
+application-dev.yml
