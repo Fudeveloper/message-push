@@ -25,3 +25,5 @@ target
 hs_err_pid*
 
 deploy.sh.bak
+application-dev.yml
+application-prod.yml
